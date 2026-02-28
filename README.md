@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ulawekartejas@gmail.com**
 
-- 📄 Know about my experiences ([My_Resume](https://drive.google.com/file/d/1UiWiALqnMjQ6f0JbAhWhjmn8JhYZ_CjZ/view?usp=sharing))
+- 📄 Know about my experiences ([My_Resume](https://drive.google.com/file/d/10SbrWKkTjP0f0DmIa8j_YFXYBDFh2iQD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
