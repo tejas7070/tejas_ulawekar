@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my project [HARMONIQ](https://github.com/tejas7070/HARMONIQ)
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **Full stack development and Data Analytics**
 
-- 👨‍💻 All of my projects are available at [(tejasau-portfolio.netlify.app/)](https://tejasau-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [(tejasau-portfolio.netlify.app/)](https://tejas-ulawekar.netlify.app/)
 
 - 💬 Ask me about **DSA,C,C++**
 
