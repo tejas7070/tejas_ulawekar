@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **Full stack development and Data Analytics**
+- 🌱 I’m currently learning **Full stack development Using Vue3 and Golang**
 
 - 👨‍💻 All of my projects are available at [(tejasau-portfolio.netlify.app/)](https://tejas-ulawekar.netlify.app/)
 
